@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Venkateswarlu Tangella 
-- 👀 I’m interested in ... Software Development
-- 🌱 I’m currently learning ... Web Languages
-- 💞️ I’m inviting  to collaborate on my projects
+- 👋 Hi, This is Venkateswarlu Tangella 
+- 👀 Interested in ... Software Development
+- 🌱 Currently learning ... Web Languages
+- 💞️ Inviting  to collaborate on my projects
 - 📫 Reach me on E-mail:t.venkat.cse@gmail.com
 
 <!---
